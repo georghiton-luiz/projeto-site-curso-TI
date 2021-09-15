@@ -149,6 +149,10 @@ footer{
     margin: 15px;
 }
 
+.box2 img{
+    margin-bottom: 5px;
+}
+
 .box2 .fig1{
     display: flex;
     width: 550px;
